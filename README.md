@@ -1,4 +1,4 @@
-# 🛠️ Windows 11 Tweaker Tool a that actually works. (by eccko)
+# 🛠️ Windows 11 Tweaker Tool that actually works. (by eccko)
 
 ![Demo](https://raw.githubusercontent.com/eccko/CleanCommitAI/main/demo.gif)
 *A modern GUI tool to easily apply Windows 11 tweaks with a single click.*
