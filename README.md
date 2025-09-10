@@ -1,6 +1,6 @@
 # 🛠️ Windows 11 Tweaker Tool (by eccko)
 
-![demo](https://github.com/eccko/CleanCommitAI/blob/main/docs/demo.gif)  
+![Demo](https://raw.githubusercontent.com/eccko/CleanCommitAI/main/demo.gif)
 *A modern GUI tool to easily apply Windows 11 tweaks with a single click.*
 
 ---
