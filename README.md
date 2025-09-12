@@ -17,7 +17,7 @@
 
 ## 📥 Installation
 1. Download the latest release from [**GitHub Releases**](https://github.com/eccko/CleanCommitAI/releases).
-2. Extract the `.zip` and run **`CleanCommitAI.exe`**.
+2. Open .exe and enjoy presets tweaks.
 3. (Optional) Add your custom `.ps1` or `.cmd` scripts into the `/scripts` folder — they will appear in the **Available Tweaks** list.
 
 ---
